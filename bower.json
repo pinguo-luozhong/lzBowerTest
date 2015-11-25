@@ -1,0 +1,20 @@
+{
+  "name": "lzBowerTest",
+  "version": "1.0.0",
+  "description": "This is bowertest",
+  "main": "/dist/test.js",
+  "keywords": [
+    "lzBowerTest"
+  ],
+  "authors": [
+    "luozhong"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
