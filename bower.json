@@ -1,10 +1,9 @@
 {
-  "name": "lzBowerTest",//项目名称
-  "version": "1.0.0",//版本号
-  "description": "This is bowertest",//描述
-  "homepage": "https://github.com/pinguo-luozhong/PGCookies.git",//git 地址
-  "main": "dist/test.js",//依赖路径
-  "keywords": [//bower 关键词
+  "name": "lzBowerTest",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pinguo-luozhong/lzBowerTest.git",
+  "main": "dist/test.js",
+  "keywords": [
     "lzBowerTest"
   ],
   "authors": [
